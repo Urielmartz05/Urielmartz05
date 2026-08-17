@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Uriel Martinez!
-🎓 Studying Computer Systems Engineering and Informatics Security at Vasco de Quiroga University, México.<br/>
+🎓 Studying Systems and Cybersecurity Engineering at Vasco de Quiroga University, México.<br/>
 💻 Currently training as a **Fullstack developer**.<br/>
 📚 Always seeking to improve my skills through hands-on projects, constant learning, and a strong foundation in computer science.<br/>
 
